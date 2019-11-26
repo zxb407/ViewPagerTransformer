@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">pageTransition</string>
+    <string name="app_name">ViewPagerTransformer</string>
     <string name="stack_viewpager">StackViewPager</string>
-    <string name="gallery_viewpager">Gallery ViewPager</string>
+    <string name="gallery_viewpager">GalleryViewPager</string>
 </resources>
